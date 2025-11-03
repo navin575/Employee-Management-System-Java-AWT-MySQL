@@ -29,5 +29,5 @@ This system allows users to easily **add, update, view, and delete employee deta
 
 ---
 
-## 📂 Project Structure
+
 
